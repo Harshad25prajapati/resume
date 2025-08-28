@@ -1,0 +1,129 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+.first-sec {
+    background: radial-gradient(circle, rgba(189, 240, 253, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+
+.first-sec .first-sub .title .title-sec {
+    display: flex;
+    justify-content: center;
+}
+
+.first-sec .first-sub .title .title-sec h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+.first-sec .first-sub .title .title-sec h5 span {
+    color: #9F372C;
+}
+
+.first-sec .first-sub .title .title-sec h5 img {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+#job-title {
+    animation: Name 3s linear infinite;
+}
+
+@keyframes Name {
+    70% {
+        opacity: .1;
+    }
+}
+
+
+
+.first-sec .first-sub .about-sec .about h4 {
+    font-family: "El Messiri", sans-serif;
+    font-size: 20px;
+    margin-top: 60px;
+    font-weight: 700;
+}
+
+
+.first-sec .first-sub .about-sec .about p {
+    width: 70%;
+    font-family: "El Messiri", sans-serif;
+}
+
+.first-sec .first-sub .about-sec .about h3 {
+    font-family: "El Messiri", sans-serif;
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.first-sec .first-sub .about-sec .about h6 {
+    font-family: "El Messiri", sans-serif;
+    margin-bottom: 5px;
+}
+
+.first-sec .first-sub .about-sec .about p {
+    font-family: "El Messiri", sans-serif;
+    margin-bottom: 5px;
+}
+
+.first-sec .first-sub .about-sec .about h5 {
+    font-family: "El Messiri", sans-serif;
+    font-size: 15px;
+}
+
+.first-sec .first-sub .about-sec .img-sec a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #0B3C49;
+    color: white;
+    border-radius: 20px;
+    margin-left: 135px;
+
+}
+
+
+.first-sec .first-sub .about-sec .details-sec h5 {
+    margin-top: 60px;
+    font-family: "El Messiri", sans-serif;
+    font-weight: 700;
+    margin-left: 100px;
+}
+
+.first-sec .first-sub .about-sec .details-sec p {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 100px;
+}
+
+.first-sec .first-sub .about-sec .details-sec h6 {
+    margin-left: 100px;
+    font-family: "El Messiri", sans-serif;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+
+.advantage-sec {
+    background: radial-gradient(circle, rgba(189, 240, 253, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.advantage-sec .advantage-part .advantage .advantage-detail h5 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: "El Messiri", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
