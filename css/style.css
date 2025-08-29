@@ -127,3 +127,80 @@
     font-size: 30px;
     font-weight: 700;
 }
+
+.advantage-sec .advantage-part .soft-sec {
+    text-align: center;
+}
+
+.advantage-sec .advantage-part .soft-sec .soft-icon img {
+    background-color: #dff1cb;
+    padding: 30px 20px;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.advantage-sec .advantage-part .soft-sec .soft-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 15px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.advantage-sec .advantage-part .soft-sec .ai-icon img {
+    background-color: #E1DECC;
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.advantage-sec .advantage-part .soft-sec .ai-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.advantage-sec .advantage-part .soft-sec .ph-icon img {
+    background-color: #8dd5fa;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .ph-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .bootstrap-icon img {
+    background-color: #bd94fa;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 20px;
+}
+
+.advantage-sec .advantage-part .soft-sec .bootstrap-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
