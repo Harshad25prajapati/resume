@@ -92,7 +92,6 @@
     color: white;
     border-radius: 20px;
     margin-left: 135px;
-
 }
 
 
@@ -203,4 +202,150 @@
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 900;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .html-icon img {
+    background-color: #e7a493;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 20px;
+}
+
+.advantage-sec .advantage-part .soft-sec .html-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .css-icon img {
+    background-color: #8ccae9;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 20px;
+}
+
+.advantage-sec .advantage-part .soft-sec .css-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .js-icon img {
+    background-color: #f0d277;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 20px;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .js-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .wp-icon img {
+    background-color: #c1e9f6;
+    text-align: center;
+    border-radius: 25%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 20px;
+}
+
+
+.advantage-sec .advantage-part .soft-sec .wp-icon h5 {
+    font-family: "El Messiri", sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.eduction-sec {
+    background: radial-gradient(circle, rgba(189, 240, 253, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.eduction-sec .eduction-part .eduction-det .eduction h5 {
+    text-align: center;
+    margin-top: 90px;
+    font-size: 30px;
+    font-family: "El Messiri", sans-serif;
+    font-weight: 600;
+}
+
+.eduction-sec .eduction-part .eduction-det .eduction h5 img {
+    width: 40px;
+    margin-bottom: 10px;
+}
+
+.eduction-sec .eduction-part .eduction-det .eduction .eduction-dep {
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+
+
+.eduction-sec .eduction-part .eduction-det .eduction .eduction-dep:hover {
+    transform: scale(1.1);
+    transition: 1s ease;
+    color: #0B3C49;
+}
+
+.eduction-sec .eduction-part .eduction-det .eduction .eduction-dep-one {
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.eduction-sec .eduction-part .eduction-det .eduction .eduction-dep-one:hover {
+    transform: scale(1.1);
+    transition: 1s ease;
+    color: #0B3C49;
+}
+
+
+.work-sec {
+    background: radial-gradient(circle, rgba(189, 240, 253, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+
+.work-sec .work-dep .work-det .work h5 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: "El Messiri", sans-serif;
+    font-weight: 600;
+}
+
+.work-sec .work-dep .work-det .social link {
+    display: flex;
+    justify-content: center;
 }
